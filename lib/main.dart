@@ -111,6 +111,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'Hello, Nouredine Ahmad Saïd',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
+            Text('This is my first Flutter app'),
           ],
         ),
       ),
